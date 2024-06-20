@@ -9,10 +9,10 @@ public class Enumeration_Cursor
 	   public static void main(String args[]) {
 	      Vector dayNames = new Vector();
 	       
-	      dayNames.add("vikash");
-	      dayNames.add("vipin");
-	      dayNames.add("manish");
-	      dayNames.add("arun");
+	      dayNames.add("monday");
+	      dayNames.add("friday");
+	      dayNames.add("thrusday");
+	      dayNames.add("saturday");
 	      dayNames.add("rana");
 	      Enumeration e = dayNames.elements();
 	      
